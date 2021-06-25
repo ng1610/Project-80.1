@@ -1,0 +1,26 @@
+#Set1{
+    width: 49%;
+    float: left;
+    margin-top: 30px;
+}
+#Set1 input{
+    margin-bottom: 30px;
+}
+#Set2{
+    width: 49%;
+    float: left;
+    margin-top: 30px;
+}
+#Set2 input{
+    margin-bottom: 30px;
+}
+#Show_paragraph_1{
+    margin-top: 30px;
+    font-size: medium;
+    margin-right: 30px;
+}
+#Show_paragraph_2{
+    margin-top: 40px;
+    font-size: medium;
+    margin-right: 30px;
+}
